@@ -9,7 +9,7 @@
         </style>
 </head>
 <body>
-    <form >;
+    <form >
            
 Username:<input type="text" name="fname"/><br>
 Password:<input type="text" name="password"  /><br>
